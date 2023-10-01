@@ -29,6 +29,7 @@
 - [ ] List on new exchanges: Expand the project's presence by listing on additional cryptocurrency exchanges.
 
 ## Future Plans
+- [ ] Move to Web3 and Ethereum compatibility. Defi applications support.
 - [ ] Build a Hyperchain solution over zkSync for EVM-compatible transactions.
 - [ ] Implement anonymous/public transactions over an Ethereum-compatible network.
 - [ ] ZK 'Social Login' authentication: Develop a ZK (Zero-Knowledge) identification and authentication algorithm. 
