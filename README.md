@@ -59,10 +59,3 @@ Our journey from privacy-focused L1 to a complete Web3 ecosystem with cross-chai
 X-Cash aims to become the leading privacy-first Web3 infrastructure—where individuals control their data, institutions can comply without compromising user rights, and developers build applications that respect human autonomy.
 
 > "Privacy is not about hiding. It's about having control. X-Cash gives you that control—whether you're an individual seeking financial sovereignty or an enterprise needing regulatory compliance without surveillance."
-
-## Join the Journey
-
-Be part of building a privacy-centric future for blockchain technology.
-
-- Join Community: `/#community`
-- Back to Home: `/`
